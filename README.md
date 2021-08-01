@@ -7,8 +7,7 @@ Currently, this webapp consists of candle stick charts along with simple moving 
 Selection of stocks can be made via selection types like All, CN100 etc.
 
 # Stock Data
-Stock data (Bhavcopy) are downloaded from www.nseindia.com and consolidated as a csv file.
-Available in this repository - "NSE_Bhavcopy.csv"
+Stock data (Bhavcopy) are downloaded from www.nseindia.com and consolidated as a csv file - "NSE_Bhavcopy.csv".
 
 # How to run?
 streamlit run Stock_screening.py
