@@ -6,7 +6,7 @@ Hobby project which aids in screening the stocks from Indian market.
 Currently, this webapp consists of candle stick charts along with simple moving average (10, 20 and 44).
 Selection of stocks can be made via selection types like All, CN100 etc.
 
-![Streamlit webapp Overview](./screeshots/Webapp_overview.png) 
+![Streamlit webapp Overview](./screenshots/Webapp_overview.png) 
 
 # Stock Data
 Stock data (Bhavcopy) are downloaded from www.nseindia.com and consolidated as a csv file - "NSE_Bhavcopy.csv".
